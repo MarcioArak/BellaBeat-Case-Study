@@ -8,4 +8,7 @@ Google Data Analytics case study project on how to identify trends in smart-devi
 
 There are 18 CSV Documents available. Each document represents different quatitive data that is tracked by the Fitbit. The documents contain information on each users daily steps and sleep hours, and how many calories each user lost per day and hour. It tracks the intensity throughout their day. 
 
-The study was done on Kaggle using R. The notebook includes how we prepared and processed the data. We analyzed the percent of active users to sedetary users. Show on average how many steps users take throughtout the week and how many hours users sleep each day. Conclude the study by giving our insights on which action should be taken according to the data we gathered.
+The study was done on Kaggle using R. The notebook includes how we prepared and processed the data. We analyzed the percent of active users to sedentary users. Show on average how many steps users take throughtout the week and how many hours users sleep each day. Conclude the study by giving our insights on which action should be taken according to the data we gathered.
+
+![alt text](https://github.com/MarcioArak/BellaBeat-Case-Study/blob/main/Images/average_daily_steps_sleep.png) ![alt text](https://github.com/MarcioArak/BellaBeat-Case-Study/blob/main/Images/user_activeness.png)
+
