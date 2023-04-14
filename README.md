@@ -8,6 +8,7 @@ Google Data Analytics case study project on how to identify trends in smart-devi
 
 Bellabeat is a high-tech manufacturer of health-focused products for women. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, designed technology that informs and inspires women around the world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits.
 
+## About the Study
 * There are 18 CSV Documents available. Each document represents different quatitive data that is tracked by the Fitbit. The documents contain information on each users daily steps and sleep hours, and how many calories each user lost per day and hour. It tracks the intensity throughout their day.
 * The study was done on Kaggle using R. The notebook includes how we prepared and processed the data.
 
