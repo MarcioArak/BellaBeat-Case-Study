@@ -12,8 +12,7 @@ Bellabeat is a high-tech manufacturer of health-focused products for women. Urš
 * There are 18 CSV Documents available. Each document represents different quatitive data that is tracked by the Fitbit. The documents contain information on each users daily steps and sleep hours, and how many calories each user lost per day and hour. It tracks the intensity throughout their day.
 * The study was done on Kaggle using R. The notebook includes how we prepared and processed the data.
 
-* Show on average how many steps users take throughtout the week and how many hours users sleep each day.  
-* As well as graph a line for the recommended amount of steps and sleep per day.  
+* Show on average how many steps users take throughtout the week and how many hours users sleep each day.  As well as graph a line for the recommended amount of steps and sleep per day.  
 ![alt text](https://github.com/MarcioArak/BellaBeat-Case-Study/blob/main/Images/average_daily_steps_sleep.png) 
 
 * Analyzed the percent of active users to sedentary users.  
